@@ -2,12 +2,12 @@
 title: Pantai Ngalur
 subtitle: Wisata Tulungagung
 date: 2021-02-21T08:34:57.811Z
-draft: true
-featured: true
+draft: false
+featured: false
 image:
   filename: ""
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   alt_text: Pantai adalah sebuah tempat pertemuan antara daratan dan lautan yang
     menyajikan pemandangan eksotis. Berbagai obyek wisata pantai telah dibuka
     dan banyak terkenal tentang seantero tanah air. Akan tetapi, pantai yang
