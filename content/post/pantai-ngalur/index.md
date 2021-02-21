@@ -5,7 +5,7 @@ date: 2021-02-21T08:34:57.811Z
 draft: true
 featured: true
 image:
-  filename: pantai-ngalur-tulungagung.jpg
+  filename: ""
   focal_point: Smart
   preview_only: true
   alt_text: Pantai adalah sebuah tempat pertemuan antara daratan dan lautan yang
@@ -22,4 +22,4 @@ image:
     menginginkan suasana penyembuhan yang damai di pantai, cobalah berwisata ke
     Pantai Ngalur ini.
 ---
-![](https://www.nativeindonesia.com/pantai-ngalur/)
+![](pantai-ngalur-tulungagung.jpg)
