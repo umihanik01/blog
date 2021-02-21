@@ -22,4 +22,4 @@ image:
     menginginkan suasana penyembuhan yang damai di pantai, cobalah berwisata ke
     Pantai Ngalur ini.
 ---
-![](pantai-ngalur-tulungagung.jpg)
+![](pantai-ngalur-tulungagung.jpg "Pantai Ngalur")
